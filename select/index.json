@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "言えって",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T08:50:15.839263Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言えって",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_言えって_SUPER_BEAVER.txt"
+    }
+  ]
+}
